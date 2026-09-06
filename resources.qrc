@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/shaders/HeaderBackground.qml</file>
+        <file>resources/shaders/HeaderBackground.frag.qsb</file>
+    </qresource>
+</RCC>
